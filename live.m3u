@@ -320,16 +320,8 @@ http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="sports",Action Hollywood 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1, Song Max
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max&e=.m3u8
-#EXTINF:-1, Sony Max HD
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max_hd&e=.m3u8
-#EXTINF:-1, Sony Max 2
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonymax_2&e=.m3u8
 #EXTINF:-1, Star Gold
 http://198.195.239.50:8095/StarGold/index.m3u8
-#EXTINF:-1, Sony Pal
-http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
 #EXTINF:-1, 9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1, 9X Jalwa
@@ -338,23 +330,10 @@ https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1, Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1, Party Universe
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
-#EXTINF:-1, Party Universe B
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1, Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, Tom & Jerry TV
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, Bantul The Great
-https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, Doraemon TV
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, Oggy and the Cockroaches
-https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, Mr Bean Animated
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-
 #EXTINF:-1, Discovery Bangla
 http://103.180.212.191:3500/live/573.m3u8
 #EXTINF:-1, Discovery Hindi
